@@ -63,10 +63,5 @@
     "icon": "Book",
     "name": "PDF",
     "link": "https://pdf.whynot.sbs/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "FileBox",
-    "link": "https://filebox.whynot.sbs/"
   }
 ]
