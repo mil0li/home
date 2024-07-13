@@ -1,37 +1,77 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "CHAT",
+    "link": "https://chat.whynot.sbs/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "AIWEB",
+    "link": "https://aiweb.whynot.sbs/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "ChatGPT Plus",
+    "link": "https://chatgpt.whynot.sbs/"
+  },
+  {
+    "icon": "Fire",
+    "name": "Mirror",
+    "link": "https://new.oaifree.com/"
+  },
+  {
+    "icon": "Fire",
+    "name": "Mirror",
+    "link": "https://chat.freegpts.org/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "Status",
+    "link": "https://status.whynot.sbs/status/openai/"
+  },
+  {
+    "icon": "Book",
+    "name": "KIMI",
+    "link": "https://kimi.moonshot.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "Qwen",
+    "link": "https://tongyi.aliyun.com/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "ITTOOLS",
+    "link": "https://ittools.whynot.sbs/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "MindMap",
+    "link": "https://mindmap.whynot.sbs/"
+  },
+  {
+    "icon": "Compass",
+    "name": "Alist",
+    "link": "https://alist.whynot.sbs/"
+  },
+  {
+    "icon": "Fire",
+    "name": "TV",
+    "link": "https://tv.whynot.sbs/"
+  },
+  {
+    "icon": "Book",
+    "name": "PDF",
+    "link": "https://pdf.whynot.sbs/"
+  },
+  {
+    "icon": "Blog",
+    "name": "Moments",
+    "link": "https://moments.whynot.sbs/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "FileBox",
+    "link": "https://filebox.whynot.sbs/"
   }
 ]
