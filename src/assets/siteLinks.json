@@ -25,6 +25,11 @@
     "link": "https://chat.freegpts.org/"
   },
   {
+    "icon": "Fire",
+    "name": "fuclaude",
+    "link": "https://demo.fuclaude.com/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "Status",
     "link": "https://status.whynot.sbs/status/openai/"
